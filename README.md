@@ -4,6 +4,8 @@ Based on aspects of building location and construction, our goal is to predict
 the level of damage to buildings caused by the 2015 Gorkha earthquake in 
 Nepal. 
 
+The data was collected through surveys by Kathmandu Living Labs and the Central Bureau of Statistics, which works under the National Planning Commission Secretariat of Nepal. 
+
 The target variable is damage_grade, which represents a level of damage to the 
 building that was hit by the earthquake. 
 There are 3 grades of the damage:
