@@ -22,5 +22,5 @@ Data Preprocessing :
 3. Normalization using Min-Max technique
 
 Model Training and Evaluation:
-1 Trained dataset using Gaussian Naive Bayes and SVM model and compare the model accuracy.
+1 Trained dataset using Gaussian Naive Bayes and SVC model and compare the model accuracy.
 2. F1 score for metric evaluation. 
